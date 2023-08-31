@@ -22,7 +22,7 @@ canvas = Canvas(API_URL, API_KEY)
 
 
 fix = []
-with open('fix_blueprint_cte.csv', 'r') as sis_fix:
+with open('fix_blueprint.csv', 'r') as sis_fix:
     csv_read = csv.DictReader(sis_fix)
     fix = [r for r in csv_read]
 

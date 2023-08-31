@@ -1,12 +1,11 @@
 ps_CourseCode,course_Name,grade_Level,department,course_Id
-603950002,e-Fit II (Honors),,,590591
 0A007X0000,AP Research,High School,Misc,
 0A007X0800,AP Research,High School,Misc,
 0A017X0000,AP Seminar,High School,Misc,
 0A017X0800,AP Seminar,High School,Misc,
 0A027X0000,AP Computer Science Principles,High School,Misc,590325
 0A027X0800,AP Computer Science Principles,High School,Misc,590325
-0A027X080V,AP Computer Science Principles VPS,High School,Misc,
+0A027X080V,AP Computer Science Principles VPS,High School,Misc,590325
 0C002X0111,ACA111 College Student Success,High School,CTE,
 0C015X0000,COM231 Public Speaking,High School,Misc,
 0C035X0000,HUM115 Critical Thinking,High School,Soc Stud,
@@ -34,17 +33,77 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 0I018X0820,IB Theory of Knowledge II,High School,Misc,
 0V008X0800,CIE Global Perspectives & Research AS,High School,Misc,
 0V028X0800,CIE Thinking Skills AS,High School,Misc,
+10212Y0901,English I (HS Credit),,,638680
 10182X0001,Speech & Debate I,High School,ELA,
 10182X0002,Speech & Debate II,High School,ELA,
 10182X0801,Speech & Debate I,High School,ELA,
 10182X0802,Speech & Debate II,High School,ELA,
 10185X0803,Honors Speech & Debate III,High School,ELA,
 10185X0804,Honors Speech & Debate IV,High School,ELA,
+10212X0000,English I,High School,ELA,638680
+10212X0070,English I SI,High School,ELA,638680
+10212X0080,English I English Learner Novice,High School,ELA,638680
+10212X0081,English I English Learner Intermediate,High School,ELA,638680
+10212X0082,English I English Learner Advanced,High School,ELA,638680
+10212X0800,English I,High School,ELA,638680
+10212X0870,English I SI,High School,ELA,638680
+10212X0881,English I English Learner Intermediate,High School,ELA,638680
+10212X0XRY,XR English I,High School,ELA,
+10215X0000,Honors English I,High School,ELA,638680
+10215X0020,English I IGCSE,High School,ELA,638680
+10215X0040,IB MYP English I Honors,High School,ELA,638680
+10215X0800,Honors English I,High School,ELA,638680
+10215X0820,English I IGCSE,High School,ELA,638680
+10215X0840,IB MYP English I Honors,High School,ELA,638680
+10222X0000,English II,High School,ELA,593359
+10222X0070,English II SI,High School,ELA,593359
+10222X0080,English II English Learner Novice,High School,ELA,593359
+10222X0081,English II English Learner Intermediate,High School,ELA,593359
+10222X0082,English II English Learner Advanced,High School,ELA,593359
+10222X0800,English II,High School,ELA,593359
+10222X080Y,English II,High School,ELA,593359
+10222X0870,English II SI,High School,ELA,593359
+10222X0881,English II English Learner Intermediate,High School,ELA,593359
+10222X0XRY,XR English II,High School,ELA,
+10225X0000,Honors English II,High School,ELA,593359
+10225X0020,English II IGCSE,High School,ELA,593359
+10225X0040,IB MYP English II Honors,High School,ELA,593359
+10225X0800,Honors English II,High School,ELA,593359
+10225X0820,English II IGCSE,High School,ELA,593359
+10225X0840,IB MYP English II Honors,High School,ELA,593359
+10232X0000,English III,High School,ELA,593360
+10232X0070,English III SI,High School,ELA,593360
+10232X0080,English III English Learner Novice,High School,ELA,593360
+10232X0081,English III English Learner Intermediate,High School,ELA,593360
+10232X0082,English III English Learner Advanced,High School,ELA,593360
+10232X00XR,XR English III,High School,ELA,
+10232X0800,English III,High School,ELA,593360
+10232X080Y,English III,High School,ELA,593360
+10232X0880,English III English Learner Novice,High School,ELA,593360
+10232X0881,English III English Learner Intermediate,High School,ELA,593360
+10232X0XRY,XR English III,High School,ELA,
+10235X0000,Honors English III,High School,ELA,593360
+10235X0800,Honors English III,High School,ELA,593360
+10242X0000,English IV,High School,ELA,593361
+10242X0070,English IV SI,High School,ELA,593361
+10242X0080,English IV English Learner Novice,High School,ELA,593361
+10242X0081,English IV English Learner Intermediate,High School,ELA,593361
+10242X0082,English IV English Learner Advanced,High School,ELA,593361
+10242X0800,English IV,High School,ELA,593361
+10242X0881,English IV English Learner Intermediate,High School,ELA,593361
+10242X0XRY,XR English IV,High School,ELA,
+10245X0000,Honors English IV,High School,ELA,593361
+10245X000V,Honors English IV VPS,High School,ELA,
+10245X0800,Honors English IV,High School,ELA,593361
+10252X0000,Foundations of English I,High School,ELA,593362
 10252X0001,Creative Writing,High School,ELA,
+10252X0002,Foundations of English II,High School,ELA,593363
 10252X001V,Mythology & Folklore VPS,High School,ELA,
 10252X0020,Literature & Film,High School,ELA,
 10252X00CV,Creative Writing VPS,High School,ELA,
+10252X0800,Foundations of English I,High School,ELA,593362
 10252X0801,Creative Writing,High School,ELA,
+10252X0802,Foundations of English II,High School,ELA,593363
 10252X0820,Literature & Film,High School,ELA,
 10252X0872,Literacy Internship I SI,High School,ELA,
 10255X0010,Honors Leadership and Learning,High School,ELA,
@@ -130,21 +189,21 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 10562Y0900,ELA Grade 6,Middle School,ELA,590354
 10562Y0906,Honors ELA Grade 6,Middle School,ELA,590355
 10562Y0920,ELA Cambridge Grade 6,Middle School,ELA,590355
-10562Y0940,IB MYP ELA Grade 6,Middle School,ELA,
-10562Y0941,IB MYP Honors ELA Grade 6,Middle School,ELA,
-10562Y0980,ELA Grade 6 English Learner Novice,Middle School,ELA,
+10562Y0940,IB MYP ELA Grade 6,Middle School,ELA,590355
+10562Y0941,IB MYP Honors ELA Grade 6,Middle School,ELA,590355
+10562Y0980,ELA Grade 6 English Learner Novice,Middle School,ELA,590354
 1056AY0900,ELA Grade 6,Middle School,ELA,590354
 10572Y0800,ELA Grade 7,Middle School,ELA,590356
 10572Y0807,Honors ELA Grade 7,Middle School,ELA,590357
 10572Y0870,ELA Grade 7 SI,Middle School,ELA,
-10572Y0880,ELA Grade 7 English Learner Novice,Middle School,ELA,
+10572Y0880,ELA Grade 7 English Learner Novice,Middle School,ELA,590356
 10572Y0881,ELA Grade 7 English Learner Intermediate,Middle School,ELA,
 10572Y0882,ELA Grade 7 English Learner Advanced,Middle School,ELA,
 10572Y0900,ELA Grade 7,Middle School,ELA,590356
 10572Y0907,Honors ELA Grade 7,Middle School,ELA,590357
 10572Y0920,ELA Cambridge Grade 7,Middle School,ELA,590357
-10572Y0940,IB MYP ELA Grade 7,Middle School,ELA,
-10572Y0941,IB MYP Honors ELA Grade 7,Middle School,ELA,
+10572Y0940,IB MYP ELA Grade 7,Middle School,ELA,590357
+10572Y0941,IB MYP Honors ELA Grade 7,Middle School,ELA,590357
 10572Y0980,ELA Grade 7 English Learner Novice,Middle School,ELA,
 1057AY0900,ELA Grade 7,Middle School,ELA,590356
 10582Y0800,ELA Grade 8,Middle School,ELA,590358
@@ -153,9 +212,9 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 10582Y0900,ELA Grade 8,Middle School,ELA,590358
 10582Y0908,Honors ELA Grade 8,Middle School,ELA,590359
 10582Y0920,ELA Cambridge Grade 8,Middle School,ELA,590359
-10582Y0940,IB MYP ELA Grade 8,Middle School,ELA,
-10582Y0941,IB MYP Honors ELA Grade 8,Middle School,ELA,
-10582Y0980,ELA Grade 8 English Learner Novice,Middle School,ELA,
+10582Y0940,IB MYP ELA Grade 8,Middle School,ELA,590359
+10582Y0941,IB MYP Honors ELA Grade 8,Middle School,ELA,590359
+10582Y0980,ELA Grade 8 English Learner Novice,Middle School,ELA,590358
 1058AY0900,ELA Grade 8,Middle School,ELA,590358
 11002Y0400,Middle School French,Middle School,World Lang,593157
 11012X0000,French I,High School,World Lang,593162
@@ -230,8 +289,8 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 11412X0820,Spanish I IGCSE,,,593165
 11412Y00ZV,Spanish I (HS Cred) VPS,,,
 11412Y0800,Spanish I (HS Cred),,,593165
-11412Y08ZV,Spanish I (HS Cred) VPS,,,
 11412Y0900,,,,593165
+11412Y08ZV,Spanish I (HS Cred) VPS,,,
 11412YA800,Spanish I (Part A) (HS Cred),,,593165
 11412YA900,,,,593165
 11412YB800,Spanish I (Part B) (Hs Cred),,,593165
@@ -606,8 +665,8 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 2A007X0900,AP Calculus AB,,,
 2A017X0000,AP Calculus BC,,,
 2A017X0800,AP Calculus BC,,,
-2A027X0800,AP Computer Science,,,
-2A027X080V,AP Computer Science VPS,,,
+2A027X0800,AP Computer Science,,,590324
+2A027X080V,AP Computer Science VPS,,,590324
 2A037X0800,AP Statistics,,,
 2A037X080V,AP Statistics VPS,,,
 2A047X0000,AP Precalculus,,,
@@ -2237,6 +2296,7 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 60362Y04U7,Unified PE Grade 7,,,590582
 60362Y04U8,Unified PE Grade 8,,,590582
 60392X0001,e-Fit 1,,,590590
+603950002,e-Fit II (Honors),,,590591
 60392X00BK,Sport Specific Basketball,,,590611
 60392X00FB,Sport Specific Football,,,590612
 60392X00LF,Lifetime Fitness,,Hlth & PE,
@@ -2350,6 +2410,19 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 6U005X0210,HSMT2101 Intro to the Health Professions,,Hlth & PE,
 6U005X0FPC,KNES2101 Foundations of Physical Cond,,Hlth & PE,
 6V018X0800,CIE Physical Education AS,,,
+9210BX0000,English I,,OCS,
+9210BX000V,English I VPS,,OCS,
+9210BX00XR,XR English I,,OCS,
+9211BX0000,English II,,OCS,
+9211BX000V,English II VPS,,OCS,
+9211BX00XR,XR English II,,OCS,
+9211BX0800,English II,,OCS,
+9212BX0000,English III,,OCS,
+9212BX000V,English III VPS,,OCS,
+9212BX00XR,XR English III,,OCS,
+9213BX0000,English IV,,OCS,
+9213BX000V,English IV VPS,,OCS,
+9213BX00XR,XR English IV,,OCS,
 9220BX0000,Introduction to Mathematics,,OCS,
 9220BX000V,Introduction to Mathematics VPS,,OCS,
 9220BX00XR,XR Introduction to Mathematics,,OCS,
@@ -2470,8 +2543,8 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 9250BX0800,American History,,OCS,
 9251BX000V,Found Prin USA&NC: Civic Literacy VPS,,OCS,
 9251BX080V,Found Prin USA&NC: Civic Literacy VPS,,OCS,
-9260BX0000,Employment Prep I Science,High School,OCS,590870
-9260BX000L,Employment Prep I Science Lab,High School,OCS,590868
+9260BX0000,Employment Prep I Science,High School,OCS,590866
+9260BX000L,Employment Prep I Science Lab,High School,OCS,590870
 9261BX0000,Employment Prep II Citizenship 1A,High School,OCS,590867
 9262BX0000,Employment Prep II Citizenship 1B,High School,OCS,590868
 9263BX0000,Employment Prep III Citizenship 2A,High School,OCS,590871
@@ -2484,7 +2557,15 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 9312AX0000,English/LA III,,ECS,
 9312AX0800,English/LA III,High School,ECS,
 9313AX0000,English/LA IV,,ECS,
+9313AX0001,English 1,,ECS,
+9313AX0002,English 2,,ECS,
+9313AX0003,English 3,,ECS,
+9313AX0004,English 4,,ECS,
 9313AX0800,English/LA IV,High School,ECS,
+9313AX0801,English 1,,ECS,
+9313AX0802,English 2,,ECS,
+9313AX0803,English 3,,ECS,
+9313AX0804,English 4,,ECS,
 9322AX0800,Financial Management,,,
 9323AX0001,Math 1,,ECS,
 9323AX0002,Math 2,,ECS,
@@ -2657,7 +2738,7 @@ ps_CourseCode,course_Name,grade_Level,department,course_Id
 96102X0004,AVID 12,,Misc,
 96102X000S,Success 101 (Edgenuity),,Misc,
 96102X000V,Success 101 VPS,,Misc,
-96102X0010,Learning Lab,,Misc,
+96102X0010,Learning Lab,,Misc,590865
 96102X0013,Life Skills,High School,Misc,
 96102X0014,Exploring Careers,High School,Misc,
 96102X0015,Personal Living,High School,Misc,
@@ -2868,14 +2949,14 @@ BD122X0800,eCommerce I,,CTE,
 BD125X0000,Honors eCommerce I,,CTE,
 BD125X000V,Honors eCommerce I VPS,,CTE,
 BD125X0800,Honors eCommerce I,,CTE,
-BF102X0000,Principles of Business and Finance,High School,CTE,
+BF102X0000,Principles of Business and Finance,High School,CTE,590441
 BF102X000V,Principles of Business and Finance VPS,,CTE,
-BF102X000Y,Business Essentials,,,
+BF102X000Y,Business Essentials,,,590441
 BF102X00XR,XR Principles of Business and Finance,,CTE,
-BF102X0800,Principles of Business and Finance,High School,CTE,
+BF102X0800,Principles of Business and Finance,High School,CTE,590441
 BF102X080V,Principles of Business and Finance VPS,,CTE,
-BF105X0000,Principles of Business and Finance Hon,,CTE,
-BF105X0800,Principles of Business and Finance Hon,,CTE,
+BF105X0000,Principles of Business and Finance Hon,,CTE,590441
+BF105X0800,Principles of Business and Finance Hon,,CTE,590441
 BF212X0000,Financial Planning I,High School,CTE,590442
 BF212X0800,Financial Planning I,High School,CTE,590442
 BF215X0000,Financial Planning I Honors,,CTE,590442
@@ -2936,9 +3017,9 @@ BP202X00XR,XR SAS Base Programming,,CTE,
 BP202X0800,SAS Base Programming,,CTE,
 BP205X0000,SAS Base Programming Honors,,CTE,
 BP205X0800,SAS Base Programming Honors,,CTE,
-BP412X0000,Computer Science I,,,
-BP412X0800,Computer Science I,,,
-BP415X0800,Computer Science I Honors,,,
+BP412X0000,Computer Science I,,,590334
+BP412X0800,Computer Science I,,,590334
+BP415X0800,Computer Science I Honors,,,590334
 BU012YA002,Computer Science Discoveries I,Middle School,CTE,
 BU012YA402,Computer Science Discoveries I,Middle School,CTE,
 BU012YA802,Computer Science Discoveries I,High School,CTE,
@@ -3028,14 +3109,14 @@ FA322X0800,Apparel and Textile Production II,High School,CTE,
 FA325X0000,Apparel and Textile Production II Honors,High School,CTE,
 FA325X0800,Apparel and Textile Production II Honors,High School,CTE,
 FE602X0000,Parenting & Child Development,,CTE,
-FH102X0000,Culinary Arts and Hospitality I,High School,CTE,
-FH102X0800,Culinary Arts and Hospitality I,High School,CTE,
-FH112X0000,Culinary Arts and Hospitality II App,High School,CTE,
-FH112X0800,Culinary Arts and Hospitality II App,High School,CTE,
-FH132X0000,Culinary Arts and Hospitality III,High School,CTE,
-FH132X0800,Culinary Arts and Hospitality III,High School,CTE,
-FH142X0000,Culinary Arts and Hospitality IV App,High School,CTE,
-FH142X0800,Culinary Arts and Hospitality IV App,High School,CTE,
+FH102X0000,Culinary Arts and Hospitality I,High School,CTE,590417
+FH102X0800,Culinary Arts and Hospitality I,High School,CTE,590417
+FH112X0000,Culinary Arts and Hospitality II App,High School,CTE,590419
+FH112X0800,Culinary Arts and Hospitality II App,High School,CTE,590419
+FH132X0000,Culinary Arts and Hospitality III,High School,CTE,590420
+FH132X0800,Culinary Arts and Hospitality III,High School,CTE,590420
+FH142X0000,Culinary Arts and Hospitality IV App,High School,CTE,590421
+FH142X0800,Culinary Arts and Hospitality IV App,High School,CTE,590421
 FI212X0000,Interior Design Fundamentals,,CTE,591523
 FI222X0000,Interior Design Studio,,CTE,591524
 FI225X0000,Interior Design Studio Honors,,CTE,591524
@@ -3058,12 +3139,12 @@ HB112X0000,Biomedical Technology,High School,CTE,
 HB112X0800,Biomedical Technology,High School,CTE,
 HB115X0000,Biomedical Technology Honors,High School,CTE,
 HB115X0800,Honors Biomedical Technology I,High School,CTE,
-HH325X0000,Pharmacy Technician Honors,,CTE,
+HH325X0000,Pharmacy Technician Honors,,CTE,590450
 HJ015X0101,NAS101 Nursing Assistant I,,CTE,
 HN425X0000,Nursing Fndmntls and Non-Practicum Hon,,CTE,
 HN425X0800,Nursing Fndmntls and Non-Practicum Hon,,CTE,
-HN435X0000,Nursing Fundamentals and Practicum Hon,,CTE,
-HN435X0800,Nursing Fundamentals and Practicum Hon,,CTE,
+HN435X0000,Nursing Fundamentals and Practicum Hon,,CTE,590449
+HN435X0800,Nursing Fundamentals and Practicum Hon,,CTE,590449
 HN43WX0000,Nursing Fundamentals and Practicum Hon,,CTE,
 HN43WX0800,Nursing Fundamentals and Practicum Hon,,CTE,
 HN442X0000,Fundamentals of Gerontology,,CTE,
@@ -3074,21 +3155,21 @@ HN452X0000,Public Health Fundamentals,,CTE,
 HN452X0800,Public Health Fundamentals,,CTE,
 HN455X0000,Public Health Fundamentals Honors,High School,CTE,
 HN455X0800,Public Health Fundamentals Honors,High School,CTE,
-HP705X0000,PLTW Principles of Biomedical Sci Hon,High School,CTE,
-HP705X0800,PLTW Principles of Biomedical Sci Hon,High School,CTE,
-HP715X0000,Honors PLTW Human Body Systems,High School,CTE,
-HP715X0800,Honors PLTW Human Body Systems,High School,CTE,
-HP725X0000,Honors PLTW Medical Intervention,High School,CTE,
-HP725X0800,Honors PLTW Medical Intervention,High School,CTE,
-HP735X0000,Honors PLTW Biomedical Innovations,High School,CTE,
-HP735X0800,Honors PLTW Biomedical Innovations,High School,CTE,
-HU102X0000,Foundations of Health Science,High School,CTE,
-HU102X0800,Foundations of Health Science,High School,CTE,
-HU402X0000,Health Science I,High School,CTE,
-HU402X00XR,XR Health Science I,,CTE,
-HU402X0800,Health Science I,High School,CTE,
-HU422X0000,Health Science II,High School,CTE,
-HU422X0800,Health Science II,High School,CTE,
+HP705X0000,PLTW Principles of Biomedical Sci Hon,High School,CTE,590451
+HP705X0800,PLTW Principles of Biomedical Sci Hon,High School,CTE,590451
+HP715X0000,Honors PLTW Human Body Systems,High School,CTE,590452
+HP715X0800,Honors PLTW Human Body Systems,High School,CTE,590452
+HP725X0000,Honors PLTW Medical Intervention,High School,CTE,590453
+HP725X0800,Honors PLTW Medical Intervention,High School,CTE,590453
+HP735X0000,Honors PLTW Biomedical Innovations,High School,CTE,590454
+HP735X0800,Honors PLTW Biomedical Innovations,High School,CTE,590454
+HU102X0000,Foundations of Health Science,High School,CTE,632617
+HU102X0800,Foundations of Health Science,High School,CTE,632617
+HU402X0000,Health Science I,High School,CTE,590455
+HU402X00XR,XR Health Science I,,CTE,590455
+HU402X0800,Health Science I,High School,CTE,590455
+HU422X0000,Health Science II,High School,CTE,590456
+HU422X0800,Health Science II,High School,CTE,590456
 IA312X0000,Intro to Adobe Applications,High School,CTE,590378
 IA312X0400,Intro to Adobe Applications,,CTE,590378
 IA312X0800,Intro to Adobe Applications,High School,CTE,590378
@@ -3104,8 +3185,8 @@ IC412X0800,Electrical Trades I,,CTE,
 IC425X0000,Electrical Trades II Honors,,,
 IC612X0000,Drafting I,,CTE,590501
 IC612X0800,Drafting I,,CTE,590501
-IC615X0000,Drafting I Honors,,,
-IC615X0800,Drafting I Honors,,,
+IC615X0000,Drafting I Honors,,,590501
+IC615X0800,Drafting I Honors,,,590501
 IC625X0000,Drafting II - Architectural Honors,High School,CTE,590500
 IC625X0800,Drafting II - Architectural Honors,High School,CTE,590500
 IC635X0000,Drafting III - Architectural Honors,,CTE,
@@ -3181,20 +3262,20 @@ IP512X0000,Emergency Management I,,CTE,
 IP512X0800,Emergency Management I,,CTE,
 IP525X0000,Emergency Management II Honors,,CTE,
 IP525X0800,Emergency Management II Honors,,CTE,
-IT112X0001,Automotive Service Fundamentals,High School,CTE,
-IT112X0801,Automotive Service Fundamentals,High School,CTE,
-IT162X0000,Automotive Service I,High School,CTE,
-IT162X0800,Automotive Service I,High School,CTE,
-IT165X0000,Automotive Service I Honors,High School,CTE,
-IT165X0800,Automotive Service I Honors,High School,CTE,
-IT172X0000,Automotive Service II,High School,CTE,
-IT172X0800,Automotive Service II,High School,CTE,
-IT175X0000,Automotive Service II Honors,High School,CTE,
-IT175X0800,Automotive Service II Honors,High School,CTE,
-IT182X0000,Automotive Service III,High School,CTE,
-IT182X0800,Automotive Service III,High School,CTE,
-IT185X0000,Automotive Service III Honors,High School,CTE,
-IT185X0800,Automotive Service III Honors,High School,CTE,
+IT112X0001,Automotive Service Fundamentals,High School,CTE,590457
+IT112X0801,Automotive Service Fundamentals,High School,CTE,590457
+IT162X0000,Automotive Service I,High School,CTE,590458
+IT162X0800,Automotive Service I,High School,CTE,590458
+IT165X0000,Automotive Service I Honors,High School,CTE,590458
+IT165X0800,Automotive Service I Honors,High School,CTE,590458
+IT172X0000,Automotive Service II,High School,CTE,590459
+IT172X0800,Automotive Service II,High School,CTE,590459
+IT175X0000,Automotive Service II Honors,High School,CTE,590459
+IT175X0800,Automotive Service II Honors,High School,CTE,590459
+IT182X0000,Automotive Service III,High School,CTE,590460
+IT182X0800,Automotive Service III,High School,CTE,590460
+IT185X0000,Automotive Service III Honors,High School,CTE,590460
+IT185X0800,Automotive Service III Honors,High School,CTE,590460
 IU102X0000,Intro to Trade and Industrial Education,,CTE,
 IV225X0000,Drafting II - Engineering Honors,,CTE,
 IV225X0800,Drafting II - Engineering Honors,,CTE,
@@ -3209,15 +3290,15 @@ MA522X0800,Marketing Applications,High School,CTE,590387
 MA525X0000,Marketing Applications Honors,High School,CTE,590387
 MA525X0800,Marketing Applications Honors,High School,CTE,590387
 ME112X0000,Entrepreneurship I,High School,CTE,590618
-ME112X000V,Entrepreneurship I VPS,,CTE,
-ME112X00XR,XR Entrepreneurship I (BE/ME),,CTE,
+ME112X000V,Entrepreneurship I VPS,,CTE,590618
+ME112X00XR,XR Entrepreneurship I (BE/ME),,CTE,590618
 ME112X0800,Entrepreneurship I,High School,CTE,590618
 ME115X0000,Honors Entrepreneurship I,High School,CTE,590618
 ME115X0800,Honors Entrepreneurship I,High School,CTE,590618
 ME125X0000,Honors Entrepreneurship II,,CTE,590619
 ME125X0800,Honors Entrepreneurship II,,CTE,590619
 MH312X0000,Sports and Event Marketing I,High School,CTE,590390
-MH312X00XR,XR Sports and Entertainment Marketing I,,CTE,
+MH312X00XR,XR Sports and Entertainment Marketing I,,CTE,590390
 MH312X0800,Sports & Entertainment Mktg I,High School,CTE,590390
 MH325X0000,Sports and Entertainment Mrkt II Hon,High School,CTE,590391
 MH325X0800,Sports and Entertainment Mrkt II Hon,High School,CTE,590391
@@ -3239,8 +3320,8 @@ ML062X0000,Customer Relationship Management I,,CTE,590395
 ML062X0800,Customer Relationship Management I,,CTE,590395
 ML065X0000,Customer Relationship Management I Hon,,CTE,590395
 ML065X0800,Customer Relationship Management I Hon,,CTE,590395
-ML085X0000,Sport and Event Marketing III Hon,,,
-ML085X0800,Sport and Event Marketing III Hon,,,
+ML085X0000,Sport and Event Marketing III Hon,,,590392
+ML085X0800,Sport and Event Marketing III Hon,,,590392
 ML102X0000,Digital Marketing,,CTE,590690
 ML102X0800,Digital Marketing,,CTE,590690
 ML105X0000,Digital Marketing Honors,,CTE,590690
@@ -3334,7 +3415,7 @@ TY272Y0400,PLTW Gateway: Magic of Electrons,,CTE,
 TY272Y0700,PLTW Gateway: Magic of Electrons,,CTE,
 TY282Y0000,PLTW Gateway: Green Architecture,,CTE,590493
 TY282Y0400,PLTW Gateway: Green Architecture,,CTE,590493
-TY282Y0700,PLTW Gateway: Green Architecture,,,
+TY282Y0700,PLTW Gateway: Green Architecture,,,590493
 TY282Y0800,PLTW Gateway: Green Architecture,,CTE,590493
 TY292Y0000,PLTW Gateway: Medical Detectives,,CTE,590448
 TY292Y0400,PLTW Gateway: Medical Detectives,,CTE,590448
@@ -3968,129 +4049,3 @@ WC322X0BLC,HET231-HET232 Lab COMBO,,CTE,
 WC322X0WB2,WBL112 Work-Based Learning (TD2),,CTE,
 WC322X0WB3,WBL132 Work-Based Learning III (TD3),,CTE,
 WC322X0WBR,WBL122R Work-Based Learning II,,CTE,
-10212X0000,English I,High School,ELA,638680
-10212X0070,English I SI,High School,ELA,638680
-10212X0080,English I English Learner Novice,High School,ELA,638680
-10212X0081,English I English Learner Intermediate,High School,ELA,638680
-10212X0082,English I English Learner Advanced,High School,ELA,638680
-10212X0800,English I,High School,ELA,638680
-10212X0870,English I SI,High School,ELA,638680
-10212X0881,English I English Learner Intermediate,High School,ELA,638680
-10212X0XRY,XR English I,High School,ELA,
-10215X0000,Honors English I,High School,ELA,638680
-10215X0020,English I IGCSE,High School,ELA,638680
-10215X0040,IB MYP English I Honors,High School,ELA,638680
-10215X0800,Honors English I,High School,ELA,638680
-10215X0820,English I IGCSE,High School,ELA,638680
-10215X0840,IB MYP English I Honors,High School,ELA,638680
-10222X0000,English II,High School,ELA,593359
-10222X0070,English II SI,High School,ELA,593359
-10222X0080,English II English Learner Novice,High School,ELA,593359
-10222X0081,English II English Learner Intermediate,High School,ELA,593359
-10222X0082,English II English Learner Advanced,High School,ELA,593359
-10222X0800,English II,High School,ELA,593359
-10222X080Y,English II,High School,ELA,593359
-10222X0870,English II SI,High School,ELA,593359
-10222X0881,English II English Learner Intermediate,High School,ELA,593359
-10222X0XRY,XR English II,High School,ELA,
-10225X0000,Honors English II,High School,ELA,593359
-10225X0020,English II IGCSE,High School,ELA,593359
-10225X0040,IB MYP English II Honors,High School,ELA,593359
-10225X0800,Honors English II,High School,ELA,593359
-10225X0820,English II IGCSE,High School,ELA,593359
-10225X0840,IB MYP English II Honors,High School,ELA,593359
-10232X0000,English III,High School,ELA,593360
-10232X0070,English III SI,High School,ELA,593360
-10232X0080,English III English Learner Novice,High School,ELA,593360
-10232X0081,English III English Learner Intermediate,High School,ELA,593360
-10232X0082,English III English Learner Advanced,High School,ELA,593360
-10232X00XR,XR English III,High School,ELA,
-10232X0800,English III,High School,ELA,593360
-10232X080Y,English III,High School,ELA,593360
-10232X0880,English III English Learner Novice,High School,ELA,593360
-10232X0881,English III English Learner Intermediate,High School,ELA,593360
-10232X0XRY,XR English III,High School,ELA,
-10235X0000,Honors English III,High School,ELA,593360
-10235X0800,Honors English III,High School,ELA,593360
-10242X0000,English IV,High School,ELA,593361
-10242X0070,English IV SI,High School,ELA,593361
-10242X0080,English IV English Learner Novice,High School,ELA,593361
-10242X0081,English IV English Learner Intermediate,High School,ELA,593361
-10242X0082,English IV English Learner Advanced,High School,ELA,593361
-10242X0800,English IV,High School,ELA,593361
-10242X0881,English IV English Learner Intermediate,High School,ELA,593361
-10242X0XRY,XR English IV,High School,ELA,
-10245X0000,Honors English IV,High School,ELA,593361
-10245X000V,Honors English IV VPS,High School,ELA,
-10245X0800,Honors English IV,High School,ELA,593361
-10382X0070,PACE English Language Novice,High School,ELA,
-10382X0071,PACE II English Language Intermediate,High School,ELA,
-10382X0081,English Language Development 9 Novice,High School,ELA,
-10382X0082,English Language Development 10 Novice,High School,ELA,
-10382X0083,English Language Development 11 Novice,High School,ELA,
-10382X0084,English Language Development 12 Novice,High School,ELA,
-10382X0085,English Language Development 9 Intermed,High School,ELA,
-10382X0086,English Language Development 9 Advanced,High School,ELA,
-10382X0087,English Language Development 10 Intermed,High School,ELA,
-10382X0088,English Language Development 10 Advanced,High School,ELA,
-10382X0089,English Language Development 11 Intermed,High School,ELA,
-10382X0090,English Language Development 11 Advanced,High School,ELA,
-10382X0091,English Language Development 12 Intermed,High School,ELA,
-10382X0092,English Language Development 12 Advanced,High School,ELA,
-10382X0870,PACE English Language Novice,High School,ELA,
-10382X0882,English Language Development 10 Novice,,,
-10382X0883,English Language Development 11 Novice,,,
-10382X0885,English Language Development 9 Intermed,,,
-10382X0887,English Language Development 10 Intermed,,,
-10382X0889,English Language Development 11 Intermed,,,
-10382X0891,English Language Development 12 Intermed,,,
-10382Y0800,English Language Dev 6 Novice Intermedia,,,
-10382Y0801,English Language Dev 7 Novice Intermedia,,,
-10382Y0802,English Language Dev 8 Novice Intermedia,,,
-10382Y0902,English Language Dev 8 Novice Intermedia,,,
-10562Y0881,ELA Grade 6 English Learner Intermediate,Middle School,ELA,
-10562Y0882,ELA Grade 6 English Learner Advanced,Middle School,ELA,
-10562Y0980,ELA Grade 6 English Learner Novice,Middle School,ELA,
-10572Y0880,ELA Grade 7 English Learner Novice,Middle School,ELA,
-10572Y0881,ELA Grade 7 English Learner Intermediate,Middle School,ELA,
-10572Y0882,ELA Grade 7 English Learner Advanced,Middle School,ELA,
-10572Y0980,ELA Grade 7 English Learner Novice,Middle School,ELA,
-10582Y0980,ELA Grade 8 English Learner Novice,Middle School,ELA,
-1A007X0000,AP English Language and Composition,,,
-1A007X0800,AP English Language and Composition,,,
-1A007X080V,AP English Lang and Composition VPS,,,
-1A017X0000,AP English Literature and Composition,,,
-1A017X0800,AP English Literature and Composition,,,
-1A017X080V,AP English Literature and Comp VPS,,,
-1V008X0800,CIE English Language AS,,,
-1V028X0800,CIE English Literature AS,,,
-1V088X0800,CIE English General Paper AS,,,
-9210BX0000,English I,,OCS,
-9210BX000V,English I VPS,,OCS,
-9210BX00XR,XR English I,,OCS,
-9211BX0000,English II,,OCS,
-9211BX000V,English II VPS,,OCS,
-9211BX00XR,XR English II,,OCS,
-9211BX0800,English II,,OCS,
-9212BX0000,English III,,OCS,
-9212BX000V,English III VPS,,OCS,
-9212BX00XR,XR English III,,OCS,
-9213BX0000,English IV,,OCS,
-9213BX000V,English IV VPS,,OCS,
-9213BX00XR,XR English IV,,OCS,
-9310AX0000,English/LA I,,ECS,
-9310AX0800,English/LA I,High School,ECS,
-9311AX0800,English/LA II,High School,ECS,
-9312AX0000,English/LA III,,ECS,
-9312AX0800,English/LA III,High School,ECS,
-9313AX0000,English/LA IV,,ECS,
-9313AX0001,English 1,,ECS,
-9313AX0002,English 2,,ECS,
-9313AX0003,English 3,,ECS,
-9313AX0004,English 4,,ECS,
-9313AX0800,English/LA IV,High School,ECS,
-9313AX0801,English 1,,ECS,
-9313AX0802,English 2,,ECS,
-9313AX0803,English 3,,ECS,
-9313AX0804,English 4,,ECS,
-WC092X0152,IPP152 ASL/English Translation,,CTE,

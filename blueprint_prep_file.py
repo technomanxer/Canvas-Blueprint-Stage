@@ -8,9 +8,40 @@ import csv
 import os
 from tqdm import tqdm
 from tqdm.contrib.concurrent import thread_map
+import requests
+import time
+
+with open(os.path.dirname(os.getcwd()) + '/access_keys.txt') as json_file:
+    keys = json.load(json_file)
+
+headers={
+    'Authorization': "Bearer " + keys['prod']
+}
+
+req = requests.post('https://cms.instructure.com/api/v1/accounts/1446/reports/sis_export_csv', params={'parameters[courses]': True}, headers=headers)
+json_re = req.json()
+time.sleep(10)
+
+id = json_re['id']
+print("report " + str(id))
+
+#check url
+done = False
+file_url=""
+while(not done):
+    req = requests.get('https://cms.instructure.com/api/v1/accounts/1446/reports/sis_export_csv/'+str(id), headers=headers)
+    print("not done yet, sleeping for 30 secs")
+    if(req.json()['status'] == 'complete'):
+        file_url = req.json()['attachment']['url']
+        break
+    time.sleep(30)
+
+#download url
+req = requests.get(file_url)
+open("sis_export.csv", 'wb').write(req.content)
 
 need_blueprint=[]
-with open('course_code.csv') as csvfile:
+with open('course_codes.csv') as csvfile:
     read = csv.reader(csvfile)
     need_blueprint=[x for x in read if x[-1]]
 
@@ -38,7 +69,14 @@ for c in no_assoc:
         c['blueprint_course_id'] = "bp_" + associate[course_code]
         sis_import.append(c)
 
-with open('sis_import_'+str(datetime.date.today())+'.csv', 'w',  newline="") as import_file:
+filename='sis_import_'+str(datetime.date.today())+'.csv'
+with open(filename, 'w',  newline="") as import_file:
     write_f = csv.DictWriter(import_file, fieldnames=sis_import[0].keys())
     write_f.writeheader()
     write_f.writerows(sis_import)
+
+# to do write code to upload
+
+file_send = {"attachment": open(filename, 'rb')}
+req = requests.post("https://cms.instructure.com/api/v1/accounts/1/sis_imports", headers=headers, files=file_send)
+print(req.json())

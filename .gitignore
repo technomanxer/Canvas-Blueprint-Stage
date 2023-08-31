@@ -14,3 +14,26 @@ sis_import_2023-08-16_morning.csv
 english_assoc
 foundations
 .gitignore
+sis_export_test.csv
+sis_import_2023-08-17_1.csv
+sis_import_2023-08-17_2.csv
+sis_import_2023-08-17.csv
+sis_import_2023-08-18_oops.csv
+sis_import_2023-08-18.csv
+sis_import_test_2023-08-19.csv
+sis_import_2023-08-19.csv
+fix_blueprint_ec.csv
+sis_import_2023-08-22.csv
+sis_import_2023-08-23.csv
+sis_import_2023-08-24_firstrun.csv
+sis_import_2023-08-24.csv
+sis_import_2023-08-24second run.csv
+sis_import_2023-08-25.csv
+sis_import_2023-08-28.csv
+sis_import_2023-08-28morning.csv
+sis_import_2023-08-30.csv
+sis_import_2023-08-31.csv
+blueprint_prep_file copy.py
+blueprint_fix.py
+blueprint_reset.py
+missingblueprint.py
