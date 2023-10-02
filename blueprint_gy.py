@@ -16,7 +16,7 @@ with open(os.path.dirname(os.getcwd()) + '/access_keys.txt') as json_file:
 # api entry points/keys
 # test instance API_KEY
 API_KEY = keys['prod']
-API_URL = "https://cms.instructure.com"
+API_URL = "insert instance URL here"
 # instantiate Canvas object
 canvas = Canvas(API_URL, API_KEY)
 
