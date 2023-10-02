@@ -1,0 +1,19 @@
+# Canvas-Blueprint-Stage
+
+What we use to stage blueprints in Charlotte-Meck Schools.
+Run the code at your own risk.
+
+## Files
+
+### courses.csv
+Contains mappings of NC PowerSchool Course Codes to course IDs for courses that require blueprinting.
+
+### blueprint_prep_file.py
+Contains the code that does the following:
+* Pulls the sis_export report that contains just courses in our PowerSchool account
+* Checks if the report is done, then pulls the report and creates a file for it
+* Loads the file into Python to process any courses that need blueprinting
+* Writes a sis_import file that contains the courses that need blueprinting with their associations (our SIS IDs for our blueprint courses are "bp_" followed by the course ID)
+* Uploads the file back into our instance as a SIS import
+
+If you're tech savvy enough and can do a cron job or a Task Scheduler, this Python file does it all. 😍
