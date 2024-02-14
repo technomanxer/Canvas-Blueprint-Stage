@@ -20,7 +20,7 @@ headers={
 
 #Edit the request so that your URL is used 
 
-req = requests.post('https:/<insert URL here>/api/v1/accounts/1446/reports/sis_export_csv', params={'parameters[courses]': True}, headers=headers)
+req = requests.post('https:/<insert URL here to your subaccount>/reports/sis_export_csv', params={'parameters[courses]': True}, headers=headers)
 json_re = req.json()
 time.sleep(10)
 
@@ -31,7 +31,7 @@ print("report " + str(id))
 done = False
 file_url=""
 while(not done):
-    req = requests.get('https://<insert URL here>/api/v1/accounts/1446/reports/sis_export_csv/'+str(id), headers=headers)
+    req = requests.get('https://<insert URL here to your subaccount>/reports/sis_export_csv/'+str(id), headers=headers)
     print("not done yet, sleeping for 30 secs")
     if(req.json()['status'] == 'complete'):
         file_url = req.json()['attachment']['url']
