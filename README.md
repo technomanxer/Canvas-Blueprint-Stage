@@ -5,6 +5,15 @@ Run the code at your own risk.
 
 ## Files
 
+### blueprint_gy.py
+Move all OLD blueprints into the "Blueprint Graveyard"
+
+### blueprint_stage.py
+Prep new blueprints by doing the following:
+* Set SIS ID to blueprints (needed for prep_file)
+* Set "blueprint" flag
+* Move the blueprints to the correct account
+
 ### courses.csv
 Contains mappings of NC PowerSchool Course Codes to course IDs for courses that require blueprinting.
 
