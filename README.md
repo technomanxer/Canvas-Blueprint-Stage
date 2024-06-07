@@ -1,7 +1,7 @@
 # Canvas-Blueprint-Stage
 
 What we use to stage blueprints in Charlotte-Meck Schools.
-Run the code at your own risk.
+Run the code at your own risk. No support will be provided.
 
 ## Files
 
